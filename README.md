@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Aloha, I’m hi-heavens!
-- 👀 I am an aspiring Software Engineer at Holberton School
+- 👀 I am an aspiring Software Engineer at ALX Africa
 - 🤹‍♂️ I am up for anything that will make my life easier
 - 🏍 I am on the journey to becoming a fullstack engineer
 - 👨‍💻 Currently learning the Shell and C programming language
