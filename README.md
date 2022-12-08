@@ -10,7 +10,7 @@ I am an aspiring Software Engineer, teacher. Currently work as a technical and c
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 👀 I am also a Software Engineer at ALX Africa
-- 🌱 I’m currently learning JavaScript, Nodejs, and C.
+<!-- - 🌱 I’m currently learning JavaScript, Nodejs, and C. -->
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back Engineer (Intern or Junior level).
 - 🤹‍♂️ I am up for anything that will make my life easier
