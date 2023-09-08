@@ -15,7 +15,7 @@ I am an aspiring Software Engineer, teacher. Currently work as a technical and c
 - 💼 Job interests: Software Engineer, Back Engineer (Intern or Junior level).
 - 🤹‍♂️ I am up for anything that will make my life easier
 - 🏍 I am on the journey to becoming a fullstack engineer
-- 📫 You can [view my resume](https://drive.google.com/file/d/1p7itCRpG_VgPhHEKo098blhJjDBrC52y/view?usp=sharing) and contact me by emailing ken_adex@yahoo.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1SHoW688wdfolXuEQR8LVGT-Xu6YsI4zik5tKaTl6SR8/edit) and contact me by emailing ken_adex@yahoo.com.
 
 ---
 
