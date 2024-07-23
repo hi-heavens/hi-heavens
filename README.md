@@ -11,7 +11,7 @@
 - 💡 A Backend engineering graduate from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 👀 I am also a Software Engineer at ALX Africa
 - 👨‍🚀 Languages: JavaScript, C, Python
-- 😊 I’m looking to continue to open source projects, hackathons, internships, and building product opportunities.
+- 😊 I’m looking to contribute to open source projects, hackathons, internships, and building product opportunities.
 - 💼 Job interests: Software Engineer, Back Engineer.
 - 🤹‍♂️ I am up for anything that will make my life easier
 - 🏍 I am on the journey to becoming a fullstack engineer
